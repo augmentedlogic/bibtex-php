@@ -1,6 +1,6 @@
 {
     "name": "augmentedlogic/bibtex",
-    "description": "Bibtex writer and parser",
+    "description": "Bibtex writer",
     "homepage": "https://developer.augmentedlogic.com",
     "license": "MIT",
     "authors": [
